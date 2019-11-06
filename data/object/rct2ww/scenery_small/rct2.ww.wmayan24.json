@@ -1,0 +1,29 @@
+{
+    "id": "rct2.ww.wmayan24",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "originalId": "0CC71011|WMAYAN24|1B3565DA",
+    "sourceGame": "rct2ww",
+    "objectType": "scenery_small",
+    "properties": {
+        "price": 20,
+        "removalPrice": -15,
+        "cursor": "CURSOR_HOUSE_DOWN",
+        "height": 24,
+        "shape": "4/4+D",
+        "isRotatable": true,
+        "isStackable": true,
+        "hasNoSupports": true
+    },
+    "images": ["$RCT2:OBJDATA/WMAYAN24.DAT[0..3]"],
+    "strings": {
+        "name": {
+            "en-GB": "Lost City Wall Corner Piece",
+            "cs-CZ": "Rohová stěna Ztraceného města",
+            "ko-KR": "잃어버린 도시 벽 구석 조각",
+            "pl-PL": "Zaginione miasto - narożnik ściany",
+            "ru-RU": "Деталь стены",
+            "pt-BR": "Peça de Canto da Parede da Cidade Perdida"
+        }
+    }
+}

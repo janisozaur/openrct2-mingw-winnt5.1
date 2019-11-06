@@ -1,0 +1,28 @@
+{
+    "id": "rct2.station.space",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "originalId": "0000008D|#RCT2STE|00000000",
+    "sourceGame": ["rct2", "rct1ll"],
+    "objectType": "station",
+    "properties": {
+        "height": 33,
+        "scrollingMode": 2
+    },
+    "images": [
+        "$G1[22856..22871]",
+        "$G1[22565..22576]"],
+    "strings": {
+        "name": {
+            "en-GB": "Space",
+            "it-IT": "Spazio",
+            "nl-NL": "Ruimte",
+            "ko-KR": "우주",
+            "zh-CN": "太空",
+            "ar-EG": "فضاء",
+            "nb-NO": "Romfart",
+            "hu-HU": "Űrbéli",
+            "es-ES": "Espacial"
+        }
+    }
+}

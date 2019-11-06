@@ -1,0 +1,174 @@
+{
+    "id": "rct2.tt.bmvoctps",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "originalId": "0E24FA20|BMVOCTPS|4A0F520E",
+    "sourceGame": "rct2tt",
+    "objectType": "ride",
+    "properties": {
+        "type": "observation_tower",
+        "category": "gentle",
+        "tabScale": 0.5,
+        "hasShelter": true,
+        "carsPerFlatRide": 1,
+        "ratingMultipler": {
+            "excitement": 2
+        },
+        "carColours": [
+            [
+                ["white", "white", "yellow"]
+            ]
+        ],
+        "cars": {
+            "rotationFrameMask": 7,
+            "spacing": 862884,
+            "mass": 2500,
+            "tabOffset": 7,
+            "numSeats": 32,
+            "seatsInPairs": false,
+            "spriteWidth": 32,
+            "spriteHeightNegative": 63,
+            "spriteHeightPositive": 14,
+            "animation": 6,
+            "carVisual": 3,
+            "drawOrder": 6,
+            "frames": {
+                "flat": true
+            },
+            "VEHICLE_ENTRY_FLAG_10": true,
+            "VEHICLE_ENTRY_FLAG_VEHICLE_ANIMATION": true,
+            "numSegments": 0,
+            "loadingWaypoints": [
+                [
+                    [28, 28],
+                    [-28, 28],
+                    [-20, 0]
+                ],
+                [
+                    [-28, -28],
+                    [-20, 0],
+                    [-20, 0]
+                ],
+                [
+                    [-20, 0],
+                    [-20, 0],
+                    [-20, 0]
+                ],
+                [
+                    [-28, 28],
+                    [-20, 0],
+                    [-20, 0]
+                ],
+                [
+                    [28, 28],
+                    [0, 20],
+                    [0, 20]
+                ],
+                [
+                    [28, -28],
+                    [28, 28],
+                    [0, 20]
+                ],
+                [
+                    [-28, 28],
+                    [0, 20],
+                    [0, 20]
+                ],
+                [
+                    [0, 20],
+                    [0, 20],
+                    [0, 20]
+                ],
+                [
+                    [20, 0],
+                    [20, 0],
+                    [20, 0]
+                ],
+                [
+                    [28, -28],
+                    [20, 0],
+                    [20, 0]
+                ],
+                [
+                    [-28, -28],
+                    [28, -28],
+                    [20, 0]
+                ],
+                [
+                    [28, 28],
+                    [20, 0],
+                    [20, 0]
+                ],
+                [
+                    [28, -28],
+                    [0, -20],
+                    [0, -20]
+                ],
+                [
+                    [0, -20],
+                    [0, -20],
+                    [0, -20]
+                ],
+                [
+                    [-28, -28],
+                    [0, -20],
+                    [0, -20]
+                ],
+                [
+                    [-28, 28],
+                    [-28, -28],
+                    [0, -20]
+                ]
+            ]
+        }
+    },
+    "images": ["$RCT2:OBJDATA/BMVOCTPS.DAT[0..38]"],
+    "strings": {
+        "name": {
+            "en-GB": "Blob from Outer Space",
+            "fr-FR": "Blob du fin fond de la galaxie",
+            "de-DE": "Blob aus dem Weltall-Attraktion",
+            "es-ES": "Viaje del engendro del espacio exterior",
+            "it-IT": "Blob dallo spazio esterno",
+            "nl-NL": "Klodder uit de ruimte",
+            "sv-SE": "Blobb från yttre rymden",
+            "ko-KR": "외계 전망탑",
+            "zh-TW": "外太空生物遊樂設施",
+            "pt-BR": "Bolha do Espaço Sideral",
+            "ar-EG": "سائل من الفضاء الخارجي",
+            "cs-CZ": "Mimozemská hmota",
+            "pl-PL": "Potwór z Kosmosu",
+            "ru-RU": "Падение из космоса"
+        },
+        "description": {
+            "en-GB": "A themed rotating observation cabin which travels up a tall tower",
+            "fr-FR": "Une cabine thématique rotative qui se hisse le long d'une immense tour",
+            "de-DE": "Eine rotierende Aussichtskabine, die einen großen Turm hinauffährt",
+            "es-ES": "Cabina de observación rotatoria decorada",
+            "it-IT": "Speciale cabina d'osservazione che sale su un'alta torre",
+            "nl-NL": "Draaiende gethematiseerde observatiecabine die langs een verticale toren omhoog gaat.",
+            "sv-SE": "En roterande observationskabin som färdas upp i ett högt torn.",
+            "ko-KR": "높은 탑을 따라 올라가면서 회전하는 전망대 객실",
+            "zh-TW": "主題觀察艙旋轉移動到高塔上面",
+            "pt-BR": "Uma cabine rotatória temática de observação que sobe por uma torre alta",
+            "cs-CZ": "Tématická vyhlídková věž s kabinou, která postupně vyjede až na vrchol a zpět dolů",
+            "pl-PL": "Obrotowa kosmiczna kabina obserwacyjna wjeżdżająca na wysoką wieżę",
+            "ru-RU": "Вращающаяся наблюдательная кабина, поднимающаяся вверх по башне."
+        },
+        "capacity": {
+            "en-GB": "20 passengers",
+            "fr-FR": "20 passagers",
+            "de-DE": "20 Fahrgäste",
+            "es-ES": "20 pasajeros",
+            "it-IT": "20 passeggeri",
+            "nl-NL": "20 passagiers",
+            "sv-SE": "20 passagerare",
+            "ko-KR": "승객 20명",
+            "zh-TW": "限乘20人",
+            "pt-BR": "20 passageiros",
+            "cs-CZ": "20 návštěvníků",
+            "pl-PL": "20 pasażerów",
+            "ru-RU": "20 пассажиров"
+        }
+    }
+}

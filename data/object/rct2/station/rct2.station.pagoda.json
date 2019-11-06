@@ -1,0 +1,28 @@
+{
+    "id": "rct2.station.pagoda",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "originalId": "0000008D|#RCT2STP|00000000",
+    "sourceGame": ["rct2", "rct1ll"],
+    "objectType": "station",
+    "properties": {
+        "height": 33,
+        "scrollingMode": 19
+    },
+    "images": [
+        "$G1[22840..22855]",
+        "$G1[22553..22564]"],
+    "strings": {
+        "name": {
+            "en-GB": "Pagoda",
+            "it-IT": "Pagoda",
+            "nl-NL": "Pagode",
+            "ko-KR": "탑",
+            "zh-CN": "塔",
+            "ar-EG": "باغودا",
+            "nb-NO": "Pagode",
+            "hu-HU": "Pagoda",
+            "es-ES": "Pagoda"
+        }
+    }
+}

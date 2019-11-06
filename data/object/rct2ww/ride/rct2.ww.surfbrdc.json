@@ -1,0 +1,139 @@
+{
+    "id": "rct2.ww.surfbrdc",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "originalId": "0CBD0810|SURFBRDC|D0447CB8",
+    "sourceGame": "rct2ww",
+    "objectType": "ride",
+    "properties": {
+        "type": "twister_rc",
+        "category": "rollercoaster",
+        "limitAirTimeBonus": true,
+        "minCarsPerTrain": 4,
+        "maxCarsPerTrain": 7,
+        "numEmptyCars": 1,
+        "tabCar": 1,
+        "headCars": 1,
+        "ratingMultipler": {
+            "excitement": 2,
+            "intensity": 15,
+            "nausea": 10
+        },
+        "maxHeight": 40,
+        "carColours": [
+            [
+                ["yellow", "black", "bright_red"]
+            ],
+            [
+                ["light_purple", "bordeaux_red", "yellow"]
+            ],
+            [
+                ["light_blue", "black", "teal"]
+            ]
+        ],
+        "cars": [
+            {
+                "rotationFrameMask": 31,
+                "spacing": 130740,
+                "mass": 740,
+                "numSeats": 4,
+                "numSeatRows": 2,
+                "frictionSoundId": 57,
+                "soundRange": 0,
+                "drawOrder": 8,
+                "frames": {
+                    "flat": true,
+                    "gentleSlopes": true,
+                    "steepSlopes": true,
+                    "verticalSlopes": true,
+                    "diagonalSlopes": true,
+                    "flatBanked": true,
+                    "inlineTwists": true,
+                    "flatToGentleSlopeBankedTransitions": true,
+                    "diagonalGentleSlopeBankedTransitions": true,
+                    "gentleSlopeBankedTransitions": true,
+                    "gentleSlopeBankedTurns": true,
+                    "flatToGentleSlopeWhileBankedTransitions": true,
+                    "corkscrews": true,
+                    "restraintAnimation": true
+                },
+                "VEHICLE_ENTRY_FLAG_ENABLE_ADDITIONAL_COLOUR_2": true,
+                "VEHICLE_ENTRY_FLAG_ENABLE_ADDITIONAL_COLOUR_1": true,
+                "VEHICLE_ENTRY_FLAG_RIDERS_SCREAM": true,
+                "loadingPositions": [-2, -4, -2, -4]
+            },
+            {
+                "rotationFrameMask": 31,
+                "spacing": 69728,
+                "mass": 525,
+                "frictionSoundId": 57,
+                "soundRange": 0,
+                "drawOrder": 8,
+                "frames": {
+                    "flat": true,
+                    "gentleSlopes": true,
+                    "steepSlopes": true,
+                    "verticalSlopes": true,
+                    "diagonalSlopes": true,
+                    "flatBanked": true,
+                    "inlineTwists": true,
+                    "flatToGentleSlopeBankedTransitions": true,
+                    "diagonalGentleSlopeBankedTransitions": true,
+                    "gentleSlopeBankedTransitions": true,
+                    "gentleSlopeBankedTurns": true,
+                    "flatToGentleSlopeWhileBankedTransitions": true,
+                    "corkscrews": true
+                },
+                "VEHICLE_ENTRY_FLAG_ENABLE_ADDITIONAL_COLOUR_2": true,
+                "VEHICLE_ENTRY_FLAG_ENABLE_ADDITIONAL_COLOUR_1": true,
+                "VEHICLE_ENTRY_FLAG_RIDERS_SCREAM": true
+            }
+        ]
+    },
+    "images": ["$RCT2:OBJDATA/SURFBRDC.DAT[0..3350]"],
+    "strings": {
+        "name": {
+            "en-GB": "Surfing Trains",
+            "fr-FR": "Montagnes surf",
+            "de-DE": "Surfzüge",
+            "es-ES": "Montaña Surfing",
+            "it-IT": "Ottovolante surf",
+            "nl-NL": "Surftrein",
+            "sv-SE": "Surfingbana",
+            "zh-CN": "冲浪设施",
+            "cs-CZ": "Surferská horská dráha",
+            "ko-KR": "서핑 차량",
+            "pl-PL": "Surfingowe szaleństwo",
+            "pt-BR": "Trens Surfing",
+            "ru-RU": "Серфинг Коастер"
+        },
+        "description": {
+            "en-GB": "Riders ride in a standing position in wide coaster trains with specially designed restraints as they race down smooth drops and through multiple inversions",
+            "fr-FR": "Les passagers suivent un parcours jalonné de pentes régulières et de multiples inversions, debouts dans de grands trains disposant de protections spéciales",
+            "de-DE": "Die Passagiere fahren stehend in breiten Zügen mit speziellen Halterungen durch sanfte Gefälle und mehrere Überkopfteile",
+            "es-ES": "Los pasajeros viajan de pie en amplios trenes con sujeciones especialmente diseñadas, y recorren suaves caídas con múltiples inversiones",
+            "it-IT": "I passeggeri trovano posto in piedi su carrozze larghe e sono trattenuti da appositi elementi di sicurezza mentre affrontano discese dolci e numerose inversioni",
+            "nl-NL": "Passagiers staan in de brede achtbaantrein met speciaal ontworpen beugels terwijl ze door soepele afdalingen en meerdere omkeringen razen.",
+            "sv-SE": "Passagerarna står upp i breda vagnar som är utrustade med specialbälten och färdas utför branta stup och genom avsnitt med tvära omkastningar",
+            "zh-CN": "乘客搭乘有特殊设计保护的宽敞列车中以站立姿态平稳地通过下坠及多样化的回转装置",
+            "cs-CZ": "Návštěvníci jedou ve stoje v širokých vozech se speciálně navrženým držením po propletené dráze s pády",
+            "ko-KR": "탑승자들이 선 자세로 낙하와 여러 특수 트랙을 즐길 수 있도록 특수하게 디자인된 안전바가 있는 넓은 롤러코스터 차량",
+            "pl-PL": "Pasażerowie jadą w pozycji stojącej w szerokich wagonikach ze specjalnie zaprojektowanymi zabezpieczeniami, pokonując gładkie zjazdy i liczne ostre zakręty",
+            "ru-RU": "Пассажир стоит в широком вагончике со спец системой безопасности."
+        },
+        "capacity": {
+            "en-GB": "4 passengers per car",
+            "fr-FR": "4 passagers par voiture",
+            "de-DE": "4 pro Wagen",
+            "es-ES": "4 pasajeros por vagón",
+            "it-IT": "4 passeggeri per carrozza",
+            "nl-NL": "4 passagiers per karretje",
+            "sv-SE": "4 passagerare per vagn",
+            "zh-CN": "每辆车限乘4人4 passengers per car",
+            "cs-CZ": "4 místa v každém voze",
+            "ko-KR": "차량당 4명의 승객",
+            "pl-PL": "4 pasażerów na wagonik",
+            "ru-RU": "4 passengers per car"
+        }
+    }
+}

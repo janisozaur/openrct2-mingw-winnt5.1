@@ -1,0 +1,30 @@
+{
+    "id": "rct2.station.abstract",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "originalId": "0000008D|#RCT2STA|00000000",
+    "sourceGame": ["rct2", "rct1ll"],
+    "objectType": "station",
+    "properties": {
+        "height": 40,
+        "scrollingMode": 22,
+        "hasPrimaryColour": true,
+        "isTransparent": true
+    },
+    "images": [
+        "$G1[22792..22823]",
+        "$G1[22517..22540]"
+    ],
+    "strings": {
+        "name": {
+            "en-GB": "Abstract",
+            "it-IT": "Astratto",
+            "ko-KR": "추상적",
+            "zh-CN": "摘要",
+            "ar-EG": "مُجرد",
+            "nb-NO": "Abstrakt",
+            "hu-HU": "Absztrakt",
+            "es-ES": "Abstracto"
+        }
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "id": "rct2.station.castlegrey",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "originalId": "0000008D|#RCT2ST3|00000000",
+    "sourceGame": ["rct2", "rct1ll"],
+    "objectType": "station",
+    "properties": {
+        "height": 43,
+        "scrollingMode": 19
+    },
+    "images": [
+        "$G1[22728..22743]",
+        "$G1[22457..22468]"],
+    "strings": {
+        "name": {
+            "en-GB": "Castle (Grey)",
+            "en-US": "Castle (Gray)",
+            "it-IT": "Castello (grigio)",
+            "nl-NL": "Kasteel (grijs)",
+            "ko-KR": "성 (회색)",
+            "zh-CN": "城堡 (灰色)",
+            "ar-EG": "قلعة (رمادي)",
+            "nb-NO": "Slott (grå)",
+            "hu-HU": "Kastély (szürke)",
+            "es-ES": "Castillo (gris)"
+        }
+    }
+}
